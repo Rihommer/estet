@@ -1,0 +1,1 @@
+"use strict";$(".js-intro__inner").slick({prevArrow:$(".js-button--slick-prev"),nextArrow:$(".js-button--slick-next"),easing:"ease-in-out",slidesToShows:1,rows:0,speed:2500,autoplay:!0,autoplaySpeed:7e3,swipe:!0,pauseOnHover:!1,mobileFirst:!0,responsive:[{breakpoint:1280,settings:{swipe:!1}}]});
